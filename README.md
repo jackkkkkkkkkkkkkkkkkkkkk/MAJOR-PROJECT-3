@@ -14,7 +14,7 @@
 
  The only software I used to make this website is Visual Studio Code (to write the code) & Firefox (to view the visual representation of the code).  
  No AI tools were used in the writing of the code for this site, as I wanted to actually learn the languages stated before.  
- I hope you can trust this, as I would hate to not get full marks for this assignment, as I have spent so long on it! (it will also be nice to have on my resume :D)  
+ I hope you can trust this, as I would hate to not get full marks for this assignment because I have spent so long on it! (it will also be nice to have on my resume :D)  
 
  ## Viewing the site
 
