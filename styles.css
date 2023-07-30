@@ -17,7 +17,7 @@ body {
   background-position: center;
   background-size: cover;
 }
-.spacer button {
+#trigger-btn {
   font-size: 369%;
   font-weight: 900;
   position: relative;
@@ -48,5 +48,19 @@ body {
 .spacer {
   animation: slideDown 2s ease-in-out;
 }
-
+.fade-btn {
+  font-size: 369%;
+  font-weight: 900;
+  position: relative;
+  top: 17%;
+  left: 26%;
+  text-shadow: 0px 3px #000;
+  color: #ffffff;
+  padding-bottom: 10px;
+  background-color: transparent;
+  border-color: transparent;
+  border-bottom-color: #9c9c9c;
+  border-bottom-style: dashed;
+  cursor: pointer;
+}
 
